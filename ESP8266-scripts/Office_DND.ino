@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
  
 const char* ssid = "Waffle House";
-const char* password =  "kap0d45kp7";
+const char* password =  "";
 const char* mqttServer = "192.168.0.20";
 const int mqttPort = 1883;
 const char* mqttUser = "";
